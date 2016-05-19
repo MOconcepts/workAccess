@@ -1,0 +1,4 @@
+[11-Apr-2016 09:16:16 UTC] PHP Parse error:  syntax error, unexpected '"\n\n THANK YOU"' (T_CONSTANT_ENCAPSED_STRING) in /home/kolabo8mag/public_html/WorkAccess/warehouse/update_items.php on line 245
+[11-Apr-2016 17:58:10 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/kolabo8mag/public_html/WorkAccess/warehouse/update_items.php on line 139
+[11-Apr-2016 17:59:02 UTC] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE) in /home/kolabo8mag/public_html/WorkAccess/warehouse/update_items.php on line 140
+[18-May-2016 18:36:19 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/kolabo8mag/public_html/WorkAccess/warehouse/update_profile.php:1) in /home/kolabo8mag/public_html/WorkAccess/warehouse/update_profile.php on line 7
